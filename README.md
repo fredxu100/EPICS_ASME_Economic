@@ -5,6 +5,8 @@
   <img src="documentation/epics_asme_logo.jpg" alt="LOGO" width="20%">
 </p>
 
+THIS IS A TEMPORARY REPO UNTIL THE OWNERS OF MAIN https://github.com/PurdueASMEHydroponics/ASMExEPICS REPO ACCPET MY MERGE REQUEST
+
 Repo for electrical for now, but structures can be included as well. Modify the README as you contribute.
 
 Important information is found in the documentation folder, refer to the documentation readme for further info.
