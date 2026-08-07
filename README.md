@@ -1,8 +1,8 @@
 # EPICSxASME Hydroponics Repository
 
-## 1. Introduction
+## 1. Overview
 <p align="center">
-  <img src="documentation/epics_asme_logo.jpg" alt="LOGO" width="15%">
+  <img src="documentation/epics_asme_logo.jpg" alt="LOGO" width="20%">
 </p>
 
 Repo for electrical for now, but structures can be included as well. Modify the README as you contribute.
