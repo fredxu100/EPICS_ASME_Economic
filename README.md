@@ -2,11 +2,14 @@
 
 ## 1. Introduction
 <p align="center">
-  <img src="documentation/epics_asme_logo.jpg" alt="LOGO" width="25%">
+  <img src="documentation/epics_asme_logo.jpg" alt="LOGO" width="15%">
 </p>
+
 Repo for electrical for now, but structures can be included as well. Modify the README as you contribute.
 
 Important information is found in the documentation folder, refer to the documentation readme for further info.
+
+---
 
 ### 2. Contributing
 
