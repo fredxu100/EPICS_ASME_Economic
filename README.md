@@ -11,7 +11,7 @@ Important information is found in the documentation folder, refer to the documen
 
 ---
 
-### 2. Contributing
+## 2. Contributing
 
 Refer to and update Issues tab to organize work
 
